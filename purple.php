@@ -3,7 +3,7 @@
 Plugin Name: Purple In memory of Rebecca
 Plugin URL: http://www.zeldman.com/2014/06/10/the-color-purple/
 Description: Life is better in purple
-Version: 1
+Version: 1.0
 Author: Remi Corson
 */
 
